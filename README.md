@@ -9,9 +9,6 @@ Basit bir Python not alma uygulaması. Bu uygulama ile kullanıcılar not ekleye
 - **Not Silme:** İstenilen notu silme.
 - **Not Listeleme:** Tüm notları görüntüleme.
 
-## Gereksinimler
-- Python 3.x
-
 ## Kurulum
 1. Bu repoyu klonlayın:
    ```bash
@@ -43,4 +40,4 @@ Tüm notlar `notes.txt` dosyasında aşağıdaki formatta saklanır:
 ```
 ID|Başlık|İçerik
 ```
----
+## Yusuf Mescioğlu - 220202071
