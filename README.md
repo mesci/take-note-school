@@ -44,6 +44,3 @@ Tüm notlar `notes.txt` dosyasında aşağıdaki formatta saklanır:
 ID|Başlık|İçerik
 ```
 ---
-
-Herhangi bir sorunuz olursa, lütfen bir Issue açmaktan çekinmeyin! 😊
-# take-note-school
